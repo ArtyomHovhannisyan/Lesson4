@@ -26,3 +26,9 @@ close('data.txt')
 print(len(long))
 
 
+
+f=open('example.txt')
+
+f.write('A new massage for a new commit')
+
+f.close()
